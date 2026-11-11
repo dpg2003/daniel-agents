@@ -1,0 +1,6 @@
+{
+  "name": "dev-agents",
+  "version": "1.0.0",
+  "description": "Daniel's 14 subagents: planning, testing, debugging, design, security, research, game systems, backtest auditing, docs, perf, and git.",
+  "author": { "name": "Daniel Pangilinan" }
+}

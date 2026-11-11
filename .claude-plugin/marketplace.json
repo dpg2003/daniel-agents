@@ -1,0 +1,17 @@
+{
+  "name": "daniel-agents",
+  "owner": {
+    "name": "Daniel Pangilinan"
+  },
+  "metadata": {
+    "description": "Daniel's personal Claude Code subagents"
+  },
+  "plugins": [
+    {
+      "name": "dev-agents",
+      "source": "./plugins/dev-agents",
+      "description": "Daniel's 14 subagents: planning, testing, debugging, design, security, research, game systems, backtest auditing, docs, perf, and git.",
+      "version": "1.0.0"
+    }
+  ]
+}
